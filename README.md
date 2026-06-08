@@ -30,11 +30,12 @@
 # 📊 GitHub Stats:
 &nbsp;
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=zafkielzz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=issues" alt="Nam Dang's GitHub Stats" />
+  <!-- Card rút gọn chỉ hiển thị tổng commit và icon, giấu hoàn toàn PRs/Issues/Stars -->
+  <img src="https://github-readme-stats.shion.dev/api?username=zafkielzz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs" alt="Nam Dang's Commits" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zafkielzz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zafkielzz&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
