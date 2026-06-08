@@ -30,8 +30,8 @@
 # 📊 GitHub Stats:
 &nbsp;
 <p align="center">
-  <!-- Dùng endpoint profile-alpha để tính lại rank chuẩn dựa trên công sức cày cuốc thực tế -->
-  <img src="https://github-readme-profile-alpha.vercel.app/api?username=zafkielzz&theme=tokyonight&count_private=true" alt="Nam Dang's GitHub Stats" />
+  <!-- Đã thêm lệnh ẩn các dòng Stars, Forks, PRs, Issues để card gọn và đẹp nhất -->
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=zafkielzz&theme=tokyonight&count_private=true&hide=stars,forks,prs,prs_merged,issues" alt="Nam Dang's GitHub Stats" />
 </p>
 
 <p align="center">
