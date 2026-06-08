@@ -30,8 +30,8 @@
 # 📊 GitHub Stats:
 &nbsp;
 <p align="center">
-  <!-- Card rút gọn chỉ hiển thị tổng commit và icon, giấu hoàn toàn PRs/Issues/Stars -->
-  <img src="https://github-readme-stats.shion.dev/api?username=zafkielzz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs" alt="Nam Dang's Commits" />
+  <!-- Dùng endpoint profile-alpha để tính lại rank chuẩn dựa trên công sức cày cuốc thực tế -->
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=zafkielzz&theme=tokyonight&count_private=true" alt="Nam Dang's GitHub Stats" />
 </p>
 
 <p align="center">
