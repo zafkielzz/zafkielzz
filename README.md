@@ -1,4 +1,5 @@
 # 💫 About Me:
+- 🌐 Portfolio, CV and papers: **[zafkiel-portfolio.vercel.app](https://zafkiel-portfolio.vercel.app/)**
 - 🔭 I’m currently working on **AI Agents and model optimization for edge devices**
 - 👯 I’m looking to collaborate on **Open-source AI projects or Edge AI deployments**
 - 🤝 I’m looking for help with **Advanced LangGraph architectures and hardware-specific compilation**
@@ -7,7 +8,7 @@
 - ⚡ Fun fact: **My handle originates from Zafkiel — the Emperor of Time wielded by Kurumi Tokisaki in Date A Live**
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/zafkielzz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/koutarou.araki.942) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phuongnam-dang) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dphuongthuy7@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zafkiel-portfolio.vercel.app/) [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/zafkielzz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/koutarou.araki.942) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phuongnam-dang) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dphuongthuy7@gmail.com) 
 
 ---
 
@@ -42,9 +43,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zafkielzz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-&nbsp;
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 <p align="right">
